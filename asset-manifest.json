@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/search-mk-fighters/static/css/main.d0d3e30a.chunk.css",
+    "main.js": "/search-mk-fighters/static/js/main.d2bf7981.chunk.js",
+    "main.js.map": "/search-mk-fighters/static/js/main.d2bf7981.chunk.js.map",
+    "runtime-main.js": "/search-mk-fighters/static/js/runtime-main.5d5ecde0.js",
+    "runtime-main.js.map": "/search-mk-fighters/static/js/runtime-main.5d5ecde0.js.map",
+    "static/js/2.a645003b.chunk.js": "/search-mk-fighters/static/js/2.a645003b.chunk.js",
+    "static/js/2.a645003b.chunk.js.map": "/search-mk-fighters/static/js/2.a645003b.chunk.js.map",
+    "index.html": "/search-mk-fighters/index.html",
+    "static/css/main.d0d3e30a.chunk.css.map": "/search-mk-fighters/static/css/main.d0d3e30a.chunk.css.map",
+    "static/js/2.a645003b.chunk.js.LICENSE.txt": "/search-mk-fighters/static/js/2.a645003b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d5ecde0.js",
+    "static/js/2.a645003b.chunk.js",
+    "static/css/main.d0d3e30a.chunk.css",
+    "static/js/main.d2bf7981.chunk.js"
+  ]
+}
